@@ -12,8 +12,6 @@
 
 📬 How to contact me: [reyhan.esmanur.orunklu@gmail.com](mailto:reyhan.esmanur.orunklu@gmail.com)
 
----
-
 ### 🎯 Skills
 
 - ☁️ Cloud Computing (Huawei Cloud, AWS)  
