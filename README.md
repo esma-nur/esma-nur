@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/r-esmanur-orunklu/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   <a href="https://medium.com/@reyhan_esma_nur"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/> </a>
-  <a href="https://reyhan.esmanur.orunklu@gmail.com"> <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  <a href="https://github.com/esma-nur"> <img src="https://img.shields.io/badge/GitHub-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 ---
