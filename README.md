@@ -2,15 +2,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/r-esmanur-orunklu/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   <a href="https://medium.com/@reyhan_esma_nur"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/> </a>
-  <a href="https://github.com/esma-nur"> <img src="https://img.shields.io/badge/GitHub-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  <a href="https://reyhan.esmanur.orunklu@gmail.com"> <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 ---
 👋 Hi! I’m Reyhan Esmanur, an Electronics & Communication Engineer driven by curiosity and a passion for learning. I enjoy tackling complex challenges and adapting quickly to new technologies and environments.
 
 🧠 I'm trying to improve myself in **Cloud**, **DevOps**, **Network**, **Testing**, **Data Analytics**, **Deep Learning**.
-
-📬 How to contact me: [reyhan.esmanur.orunklu@gmail.com](mailto:reyhan.esmanur.orunklu@gmail.com)
 
 ### 🎯 Skills
 
@@ -22,7 +20,6 @@
 - 🧪 Testing  ( End-to-end testing processes across software, systems, and networks)
 
 ---
-
 
 ## 🚀 Tech Stack
 
